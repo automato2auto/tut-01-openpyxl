@@ -2,6 +2,8 @@
   
   Download Python from this link: python.org/downloads/
 
+  And then install it just like any other program
+
 -Secondly:
 
   Step 1: Open the cmd terminal 
