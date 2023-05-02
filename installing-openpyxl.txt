@@ -1,0 +1,19 @@
+-Firstly:
+  
+  Download Python from this link: python.org/downloads/
+
+-Secondly:
+
+  Step 1: Open the cmd terminal 
+
+  Step 2: Use the following commands to install pip:
+
+  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+  python get-pip.py
+
+-Lastly:
+  
+  Type in the cmd the following command:
+
+  pip install openpyxl
